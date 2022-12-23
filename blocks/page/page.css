@@ -1,22 +1,13 @@
 .page {
-    background-color: #2A2C2F;
+    background-color: #2a2c2f;
     font-family: "inter", serif;
     box-sizing: border-box;
     max-width: 1280px;
     margin: 0 auto;
     -webkit-font-smoothing: antialiased;
-<<<<<<< HEAD
     -moz-osx-font-smoothing: grayscale;
-=======
-    -moz-osx-font-smoothing: grayscale; 
->>>>>>> d491cad567714e5f3937b14e0679cfd3bc79a911
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
-<<<<<<< HEAD
 }
-=======
-}
-
->>>>>>> d491cad567714e5f3937b14e0679cfd3bc79a911

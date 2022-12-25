@@ -4,4 +4,4 @@
 Проект выполнен с соблюдением правил БЭМ, адаптирован под все виды устройств, с контрольными точками 1280px, 1024px, 768px, 320px как в макете.
 Подключены шрифты Intro с помощью fontFace.
 
-https://github.com/VadimGlumakoff/russian-travel
+https://vadimglumakoff.github.io/russian-travel/index.html

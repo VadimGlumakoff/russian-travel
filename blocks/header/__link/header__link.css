@@ -3,13 +3,10 @@
     font-weight: 400;
     line-height: 28px;
     margin-top: 46px;
- }
-
- .header__link {
     color: white;
     margin-right: 18px;
     text-decoration: none;
-}
+ }
 
 .header__link:last-of-type {
     margin-right: 0;

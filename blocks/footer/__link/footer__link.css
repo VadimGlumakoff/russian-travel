@@ -1,29 +1,14 @@
 .footer__link {
-    list-style-type: none;
-    color: white;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 18px;
     text-decoration: none;
-    margin: 88px 0 24px 18px;
+    color: white;
+}
+
+.footer__link:hover {
+    opacity: 0.8;
+    transition: 0.3s ease-in;
 }
 
 
-.footer__link:first-child {
-    margin-left: 0;
-}
-
-@media screen and (max-width: 1024px) {
-    .footer__link {
-        margin: 92px 0 24px 18px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .footer__link {
-        margin: 88px 0 24px 24px;
-    }
-}
 
 @media  screen and (max-width: 650px) {
     .footer__link {
@@ -32,17 +17,7 @@
     }
 }
 
-@media  screen and (max-width: 550px) {
-    .footer__link {
-        font-size: 24px;
-        line-height: 24px;
-        margin: 0 0 32px 0;
-    }
 
-    .footer__link:last-of-type {
-        margin-bottom: 0;
-    }
-}
 
 
 @media screen and (max-width: 320px) {

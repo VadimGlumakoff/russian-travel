@@ -5,11 +5,11 @@
     margin-top: 46px;
     color: white;
     margin-right: 18px;
-    text-decoration: none;
  }
 
 .header__link:last-of-type {
     margin-right: 0;
+    text-decoration: none;
 }
 
 .header__link:hover {
